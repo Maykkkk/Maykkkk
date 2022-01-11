@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">A passionate Fresher who loves to explore and contribute.</h3>
+### Github Activity Graph:-
+[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maykkkk&theme=react-dark)](https://github.com/Maykkkk/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykkkk&label=Profile%20views&color=0e75b6&style=flat" alt="maykkkk" /> </p>
 
