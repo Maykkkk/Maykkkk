@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">A passionate Fresher who loves to explore and contribute.</h3>
+
 ### Github Activity Graph:-
 [![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maykkkk&theme=react-dark)](https://github.com/Maykkkk/github-readme-activity-graph)
 
@@ -41,11 +42,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="m
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykkkk&show_icons=true&locale=en&layout=compact" alt="maykkkk" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maykkkk&show_icons=true&locale=en" alt="maykkkk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykkkk&show_icons=true&locale=en&layout=compact" alt="maykkkk" /></p><p>&nbsp;
+  
+  
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maykkkk&show_icons=true&locale=en" alt="maykkkk" /></p>
 
 
 
