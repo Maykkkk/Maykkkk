@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **guptamayank1206@gmail.com**
 
+- 👯 Successfully Completed Hacktoberfest'22 &'23 by merging 4PR each year.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mayankg97747897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mayankg97747897" height="30" width="40" /></a>
